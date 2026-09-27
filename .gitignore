@@ -1,0 +1,17 @@
+# Arduino / IDE
+*.hex
+*.bin
+*.elf
+*.map
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Local secrets / configuration backups
+config.h
+secrets.h
+*.local
+.env
